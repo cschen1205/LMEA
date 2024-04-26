@@ -1,0 +1,8 @@
+pandas
+tsplib95
+pyCombinatorial
+langchain
+wandb
+optuna
+tqdm
+openai
