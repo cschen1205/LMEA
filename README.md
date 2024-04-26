@@ -63,3 +63,9 @@ rue_15_1.tsp (rue type, 15 nodes, 1st problem instance)
 ```
 
 The log files of the experiments will be saved in folder "**data/logs**" 
+
+# Issues and FAQ
+
+> Coming soon!
+
+* Plese feel free to contact [@cschen](<cschen1205@gmail.com>) if you encounter issues on the project.
